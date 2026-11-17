@@ -1,0 +1,22 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Downloaded model files (~20 GB, re-downloaded by the notebook)
+models/
+
+# Node (only needed to rebuild the deck)
+node_modules/
+
+# Personal notes
+breakdown.md
+
+# Archives
+*.zip
+
+# OS / editor junk
+.DS_Store
+~$*.pptx
+*.log

@@ -1,0 +1,18 @@
+Apple. (2025). Apple Intelligence foundation language models: Tech report 2025. arXiv. https://doi.org/10.48550/arXiv.2507.13575
+Cobbe, K., et al. (2021). Training verifiers to solve math word problems. arXiv. https://doi.org/10.48550/arXiv.2110.14168
+DeepSeek-AI. (2024). DeepSeek-V3 technical report. arXiv. https://doi.org/10.48550/arXiv.2412.19437
+Dettmers, T., et al. (2022). LLM.int8(): 8-bit matrix multiplication for transformers at scale. Advances in Neural Information Processing Systems 35 (NeurIPS 2022). https://doi.org/10.48550/arXiv.2208.07339
+Dettmers, T., et al. (2023). QLoRA: Efficient finetuning of quantized LLMs. Advances in Neural Information Processing Systems 36 (NeurIPS 2023). https://doi.org/10.48550/arXiv.2305.14314
+Element Labs. (2025). LM Studio [Software]. https://lmstudio.ai
+Frantar, E., et al. (2023). GPTQ: Accurate post-training quantization for generative pre-trained transformers. Proceedings of the 11th International Conference on Learning Representations (ICLR 2023). https://doi.org/10.48550/arXiv.2210.17323
+ggml-org. (2025). llama.cpp and the GGUF file format [Software]. https://github.com/ggml-org/llama.cpp
+Li, M., et al. (2025). SVDQuant: Absorbing outliers by low-rank components for 4-bit diffusion models. Proceedings of the 13th International Conference on Learning Representations (ICLR 2025). https://doi.org/10.48550/arXiv.2411.05007
+Lin, J., et al. (2024). AWQ: Activation-aware weight quantization for on-device LLM compression and acceleration. Proceedings of Machine Learning and Systems 6 (MLSys 2024). https://doi.org/10.48550/arXiv.2306.00978
+Ma, S., et al. (2024). The era of 1-bit LLMs: All large language models are in 1.58 bits. arXiv. https://doi.org/10.48550/arXiv.2402.17764
+Merity, S., et al. (2017). Pointer sentinel mixture models (WikiText-2 dataset). Proceedings of the 5th International Conference on Learning Representations (ICLR 2017). https://doi.org/10.48550/arXiv.1609.07843
+Meta AI. (2024). The Llama 3 herd of models. arXiv. https://doi.org/10.48550/arXiv.2407.21783
+Ollama. (2025). Ollama [Software]. https://ollama.com
+OpenAI. (2025). gpt-oss-120b & gpt-oss-20b model card. arXiv. https://doi.org/10.48550/arXiv.2508.10925
+Qwen Team. (2025). Qwen3 technical report. arXiv. https://doi.org/10.48550/arXiv.2505.09388
+Rouhani, B. D., et al. (2023). Microscaling data formats for deep learning. arXiv. https://doi.org/10.48550/arXiv.2310.10537
+Xiao, G., et al. (2023). SmoothQuant: Accurate and efficient post-training quantization for large language models. Proceedings of the 40th International Conference on Machine Learning (ICML 2023), PMLR 202. https://doi.org/10.48550/arXiv.2211.10438

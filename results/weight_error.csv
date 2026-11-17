@@ -1,0 +1,6 @@
+file,format used for this tensor,avg error (% of avg |w|),weights erased to 0 (%)
+Q8_0 (8-bit),Q8_0,0.6,0.8
+Q4_K_M (4-bit),Q4_K,7.6,0.0
+Q3_K_M (3-bit),Q3_K,15.3,20.8
+Q2_K (2-bit),Q2_K,28.1,0.1
+IQ1_S (1.5-bit),IQ1_S,50.9,0.0
